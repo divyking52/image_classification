@@ -6,3 +6,5 @@ tqdm
 split-folders
 simple-parsing
 streamlit
+albumentations
+torchvision
