@@ -8,3 +8,4 @@ simple-parsing
 streamlit
 albumentations
 torchvision
+matplotlib
